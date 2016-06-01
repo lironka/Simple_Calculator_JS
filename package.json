@@ -1,0 +1,11 @@
+{
+  "name": "Simple calculator",
+  "version": "1.0.0",
+  "description": "My simple calculator algorithm via JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oflops@gmail.com",
+  "license": "ISC"
+}
